@@ -6,7 +6,6 @@ Course: CS5760 – Natural Language Processing
 Semester: Spring 2026
 University: University of Central Missouri
 
-
 Question 1: Regular Expressions
 1.U.S. ZIP Codes
 \b\d{5}(?:[- ]\d{4})?\b
